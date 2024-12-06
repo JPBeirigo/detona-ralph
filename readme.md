@@ -1,15 +1,12 @@
 # Desafio de Game - Detona Ralph
 
-Durante este projeto diversos conceitos foram demonstrados, entre eles a estruturação de um projeto de jogo e sua importância para o andamento do projeto, incluindo organização de código e arquivos, facilitando possível mudanças e adições ao projeto em momentos futuros.
-
-Como criar uma página HTML para ser a base do jogo, além de como a estilizar fazendo o uso de CSS.
+Durante este projeto diversos conceitos foram demonstrados, entre eles a estruturação de um projeto de jogo e sua importância para o andamento do projeto, incluindo organização de código e arquivos, facilitando possível mudanças e adições ao projeto em momentos futuros, como criar uma página HTML para ser a base do jogo, além de como a estilizar fazendo o uso de CSS.
 
 Por fim, aprendemos o básico sobre como criar uma engine para jogos e seu funcionamento. 
 
 Além disso tudo, é claro foram apresentadas claro diversas dicas e sugestões de boas práticas.
 
-# Diferenciais de meu projeto com o apresentado durante o desafio
-
+# Diferenciais de meu projeto com o projeto base
 ## Ao clicar em um local onde não tem inimigo (Detona Ralph) a quantidade de vidas diminui em 1.
 Além disso, quando a quantidade de vidas chega a 0 acontece o Game Over.
 

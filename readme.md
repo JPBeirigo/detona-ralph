@@ -12,7 +12,7 @@ Além disso, quando a quantidade de vidas chega a 0 acontece o Game Over.
 
 ## Adicionados mais efeitos sonoros 
 ### Quando Ralph se move há um efeito sonoro para avisar o jogador que ele está em uma nova posição ou que sua hitbox foi restaurada. 
-Às vezes o número sorteado para a posição dele é o mesmo que ele já está, portanto ele permanece no mesmo quadrado quando já é possível clicar nele novamente, o soundcue evita que o jogador perca pontos por ele ficar na mesma posição.
+Às vezes o número sorteado para a posição dele é o mesmo que ele já está, portanto ele permanece no mesmo quadrado quando já é possível clicar nele novamente, o soundcue evita que o jogador perca pontos por ele ficar na mesma posição. <br>
 OBS: Por questões de evitar spam sonoro, o navegador evita que o som saia a não ser que clique na tela antes, portanto até o jogador clicar e conseguir pontos ou errar, o soundcue de movimento nao irá tocar.
 
 ### Foi adicionado mais um efeito sonoro ao clicar em um quadrado em branco e perder uma vida.

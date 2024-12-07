@@ -52,14 +52,15 @@ function countDown()
         speedUp(400);
     }
     
-}
-
     if(state.values.currentTime <= 0){
         clearInterval(state.values.countDownTimerId);
         clearInterval(state.values.timerId);
         
         alert("Game Over! Seu resultado foi: " + state.values.result);
     }
+}
+
+    
 
 
 

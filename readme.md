@@ -18,7 +18,7 @@ OBS: Por questões de evitar spam sonoro, o navegador evita que o som saia a nã
 ### Foi adicionado mais um efeito sonoro ao clicar em um quadrado em branco e perder uma vida.
 
 ## Dificuldade incremental, a cada 20s Ralph se move mais rápido.
-Por conta disso a quantidade de vidas foi aumentada para 10, para evitar um game over prematuro.
+Por conta disso a quantidade de vidas foi aumentada para 10, para evitar um game over prematuro. <br>
 OBS: Não sei dizer o motivo, mas a diferença na velocadade do jogo só é notável ao chegar em valores abaixo de 500ms, antes desse ponto é como se nada mudasse.
 
 # Créditos: Este projeto foi desenvolvido seguindo o projeto Criando um Jogo do Detona Ralph com Javascript da DIO.

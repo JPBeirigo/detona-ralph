@@ -44,11 +44,11 @@ function countDown()
         speedUp(800);
     }
     
-    if(state.values.currentTime <= 30){
+    else if(state.values.currentTime <= 30){
         speedUp(600);
     }
     
-    if(state.values.currentTime <= 20){
+    else if(state.values.currentTime <= 20){
         speedUp(400);
     }
     

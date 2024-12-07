@@ -18,5 +18,6 @@ Além disso, quando a quantidade de vidas chega a 0 acontece o Game Over.
 
 ## Dificuldade incremental, a cada 20s Ralph se move mais rápido.
 Por conta disso a quantidade de vidas foi aumentada para 10, para evitar um game over prematuro.
+OBS: Não sei dizer o motivo, mas a diferença na velocadade do jogo só é notável ao chegar em valores abaixo de 500ms, antes desse ponto é como se nada mudasse.
 
 # Créditos: Este projeto foi desenvolvido seguindo o projeto Criando um Jogo do Detona Ralph com Javascript da DIO.

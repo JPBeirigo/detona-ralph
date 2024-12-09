@@ -6,6 +6,8 @@ Por fim, aprendemos o básico sobre como criar uma engine para jogos e seu funci
 
 Além disso tudo, é claro foram apresentadas claro diversas dicas e sugestões de boas práticas.
 
+Link para acessar o jogo: https://jpbeirigo.github.io/detona-ralph/
+
 # Diferenciais de meu projeto com o projeto base
 ## Ao clicar em um local onde não tem inimigo (Detona Ralph) a quantidade de vidas diminui em 1.
 Além disso, quando a quantidade de vidas chega a 0 acontece o Game Over.
